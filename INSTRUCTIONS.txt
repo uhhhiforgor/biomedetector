@@ -1,0 +1,7 @@
+DO THIS FIRST: VISIT https://github.com/tesseract-ocr/tesseract/releases/download/5.5.0/tesseract-ocr-w64-setup-5.5.0.20241111.exe AND DOWNLOAD THE FILE
+1. Run the Tesseract OCR installer (MAKE SURE TO ADD TO PATH DURING INSTALLATION), and when it is finished installing, run the 'install_dependancies' file.
+2. Make sure you have python installed, and if you don't, install it. Add it to path during installation, the same as you did with the Tesseract OCR installer. Run the python script named 'biome_detection'.
+3. Enter the webhook url given in your dms into the text box under 'Discord Webhook URL' and put your private server or share link under 'Link URL'.
+4. Click 'Select Area' and select the area the biome type would appear in on your screen.
+5. Click 'Save Settings' and 'Start Scan' to begin scanning.
+6. When afking at night make sure to keep your monitor on and macro running. If your macro is having any issues, contact Castlye or Krish.
