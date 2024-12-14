@@ -19,7 +19,7 @@ def install_dependencies():
    # Provide instructions for installing Tesseract OCR  
    print("Please install Tesseract OCR engine manually:")  
    if sys.platform == 'win32':  
-      print("1. Run the exe provided in the folder to download and install Tesseract OCR.")  
+      print("1. Visit the instructions file for more information.")  
    elif sys.platform == 'darwin':  # macOS  
       print("1. Open the Terminal app on your Mac.")  
       print("2. Run the command `brew install tesseract` to install Tesseract OCR using Homebrew.")  
